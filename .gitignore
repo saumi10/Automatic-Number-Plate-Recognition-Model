@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Large data
+data/
+datasets/
+videos/
+*.mp4
+
+# SQLite DB
+*.db
+
+# JSON outputs
+json/
+
+# OS files
+.DS_Store
+Thumbs.db
